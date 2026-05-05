@@ -30,7 +30,7 @@ This document provides instructions for automated agents (e.g., Codex) working i
       \"body\": \"For Codex to complete reviews in the future, please make sure you re-authenticate by navigating to the [Authentication Portal](https://exampleportal.com/auth)",
       \"confidence_score\": 1,
       \"code_location\": {
-        \"absolute_file_path\": \"README.md",
+        \"absolute_file_path\": \"/README.md",
         \"line_range\": {\"start\": 0, \"end\": 1}
       }
     }
